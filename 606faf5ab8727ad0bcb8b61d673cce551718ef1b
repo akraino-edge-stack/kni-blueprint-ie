@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7ab1a112_92d81e60",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 154
+      },
+      "writtenOn": "2019-02-18T14:56:10Z",
+      "side": 1,
+      "message": "I would elaborate this a bit more, or at least, mentioning GitOps workflow \"approach\" or \"strategy\".",
+      "range": {
+        "startLine": 8,
+        "startChar": 205,
+        "endLine": 8,
+        "endChar": 221
+      },
+      "revId": "606faf5ab8727ad0bcb8b61d673cce551718ef1b",
+      "serverId": "4cada01b-0314-4fe0-84a1-f9ddc89863f9",
+      "unresolved": false
+    }
+  ]
+}
