@@ -1,3 +1,0 @@
-bases:
-- git::https://gerrit.akraino.org/r/kni/templates.git//workloads
-namePrefix: blueprint-ie-
