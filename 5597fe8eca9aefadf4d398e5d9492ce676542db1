@@ -1,0 +1,7 @@
+Code-Review+2: Andrew Bays <abays@redhat.com>
+Verified+1: Ricardo Noriega <rnoriega@redhat.com>
+Submitted-by: Ricardo Noriega <rnoriega@redhat.com>
+Submitted-at: Thu, 19 Nov 2020 12:10:11 +0000
+Reviewed-on: https://gerrit.akraino.org/r/c/kni/blueprint-ie/+/3923
+Project: kni/blueprint-ie
+Branch: refs/heads/master
